@@ -1,5 +1,5 @@
 # Clone picom
 
 ```
-git clone https://github.com/locletvl842002/polybar-config.v2.git ~/.config/polybar
+git clone https://github.com/loctvl842/picom-config ~/.config/picom
 ```
